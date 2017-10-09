@@ -1,2 +1,2 @@
 # Homework from coursera
-[Link](https://www.coursera.org/)
+[Coursera](https://www.coursera.org/)
